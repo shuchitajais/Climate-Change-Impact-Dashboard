@@ -1,7 +1,3 @@
-Here is a GitHub README description example for your Climate Change Impact Dashboard project modeled in a style similar to the India Travel Tracker Dashboard you shared:
-
-***
-
 # 🌍 Climate Change Impact Dashboard – Power BI & Python
 
 ## 📊 Overview  
