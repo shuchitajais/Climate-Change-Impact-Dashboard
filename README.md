@@ -42,7 +42,3 @@ An interactive dashboard visualizing the impact of climate change across 10 key 
 **Shuchita Jaiswal**  
 📧 shuchita0201@gmail.com  
 🔗 https://www.linkedin.com/in/shuchitajaiswal/
-
-***
-
-You can adapt and expand this template for both your GitHub README and resume project description for a polished, professional presentation. Let me know if you want content formatted specifically for your resume or LinkedIn!
