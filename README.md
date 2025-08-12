@@ -1,7 +1,7 @@
 # 🌍 Climate Change Impact Dashboard – Power BI & Python
 
 ## 📊 Overview  
-An interactive dashboard visualizing the impact of climate change across 10 key countries from 1990 to 2023. Integrates multi-source time-series data on greenhouse gas emissions, deforestation rates, and temperature anomalies, providing insights into global contributors and affected regions. Built to practice data storytelling, geospatial mapping, and trend analysis.
+An interactive dashboard visualizing the impact of climate change across 10 key countries from 1990 to 2015. Integrates multi-source time-series data on greenhouse gas emissions, deforestation rates, and temperature anomalies, providing insights into global contributors and affected regions. Built to practice data storytelling, geospatial mapping, and trend analysis.
 
 ***
 
