@@ -28,7 +28,8 @@ An interactive dashboard visualizing the impact of climate change across 10 key 
 ***
 
 ## 📷 Dashboard Preview  
-*(Add your screenshot image here)*  
+<img width="1724" height="960" alt="image" src="https://github.com/user-attachments/assets/eb8586da-f1cd-47ef-b3b8-a3a29ee63b5c" />
+  
 ![Climate Change Dashboard Screenshot](./climate_dashboard_screenshot Files Included  
 | File | Description |  
 |-------|-------------|  
